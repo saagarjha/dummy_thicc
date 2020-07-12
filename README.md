@@ -4,6 +4,16 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 
 ## Architectures
 
+### [ARM64 (arm64)](https://github.com/saagarjha/dummy_thicc/tree/master/arm64)
+
+* **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w) with `pickarch`
+
+### [ARM64E (arm64e)](https://github.com/saagarjha/dummy_thicc/tree/master/arm64e)
+
+* **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
+
 ### [Intel x86-64 (x86_64)](https://github.com/saagarjha/dummy_thicc/tree/master/x86_64)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
