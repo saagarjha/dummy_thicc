@@ -14,6 +14,11 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
 * **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
 
+### [arm v7s (armv7s)](https://github.com/saagarjha/dummy_thicc/tree/master/armv7s)
+
+* **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an iPhone 5c (A1532) running iOS 13.3.3 (14G60)
+
 ### [Intel 80x86 (i386)](https://github.com/saagarjha/dummy_thicc/tree/master/i386)
 
 * **Built on:** 07/12/2020 using Xcode Version 9.4.1 (9F2000) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
