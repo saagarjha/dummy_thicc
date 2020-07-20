@@ -7,37 +7,37 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 ### [ARM64 (arm64)](https://github.com/saagarjha/dummy_thicc/tree/master/arm64)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w) with `pickarch`
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w) with `pickarch`
 
 ### [ARM64E (arm64e)](https://github.com/saagarjha/dummy_thicc/tree/master/arm64e)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
 
 ### [arm v7s (armv7s)](https://github.com/saagarjha/dummy_thicc/tree/master/armv7s)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using an iPhone 5c (A1532) running iOS 13.3.3 (14G60)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using an iPhone 5c (A1532) running iOS 13.3.3 (14G60)
 
 ### [Intel 80x86 (i386)](https://github.com/saagarjha/dummy_thicc/tree/master/i386)
 
 * **Built on:** 07/12/2020 using Xcode Version 9.4.1 (9F2000) on an [redacted] running macOS Big Sur 11.0 Beta (20A5299w)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033) with `pickarch`
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033) with `pickarch`
 
 ### [Intel x86-64 (x86_64)](https://github.com/saagarjha/dummy_thicc/tree/master/x86_64)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b) with `pickarch`
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b) with `pickarch`
 
 ### [Intel x86-64h Haswell (x86_64h)](https://github.com/saagarjha/dummy_thicc/tree/master/x86_64h)
 
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
-* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/12/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
+* **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
 
 ### [PowerPC 7400 (ppc7400)](https://github.com/saagarjha/dummy_thicc/tree/master/ppc7400)
 
 * **Built on:** 07/20/2020 using Xcode Version 3.1.4 (9M2809) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033)
-* **Virtually tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, emulating a Power Mac G4 (ADP graphics) running Mac OS X Leopard 10.5.8 (9L31a) in QEMU PPC
+* **Virtually tested by:** [@saagarjha](https://github.com/saagarjha) on 07/20/2020, emulating a Power Mac G4 (AGP graphics) running Mac OS X Leopard 10.5.8 (9L31a) in QEMU PPC
 
 ## Contributing
 
