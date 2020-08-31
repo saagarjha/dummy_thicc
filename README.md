@@ -44,6 +44,17 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 * **Built on:** 07/22/2020 using Xcode Version 3.1.4 (9M2809) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033)
 * **Physically tested by:** [@foxlet](https://github.com/foxlet) on 07/22/2020, using a PowerBook G4 (1 GHz) running Mac OS X Leopard 10.5.8 (9L31a)
 
+### [Motorola 680x0 (m68k)](https://github.com/saagarjha/dummy_thicc/tree/master/m68k)
+
+* **Built on:** 2020-08-31 using GCC 2.95.3 on an emulated Next Computer running NeXTSTEP 3.3 (running in Previous 1.8)
+* **Virtually tested by**: [@homsar](https://github.com/homsar) on 2020-08-31, emulating a Next Computer running NeXTSTEP 3.3
+
+### [Motorola 68040 (m68040)](https://github.com/saagarjha/dummy_thicc/tree/master/m68040)
+
+* **Built on:** 2020-08-31 using GCC 2.95.3 on an emulated NextStation Turbo running NeXTSTEP 3.3 (running in Previous 1.8)
+* **Virtually tested by**: [@homsar](https://github.com/homsar) on 2020-08-31, emulating a NextStation Turbo running NeXTSTEP 3.3
+
+
 ## Contributing
 
 Think the list above is missing a slice? Happen to have some obscure hardware lying around that can run NeXTSTEP or macOS? There are a couple ways you can help, but first, an important caveat: at any given time, every slice in the `dummy_thicc` universal binary, and each `dummy_thicc` thin slice, must actually run somewhere–virtually or physically. This has two important consequences: one, some slices, while ostensibly recognized by Mach-O tooling as valid, will not be permitted as there nothing that can run it. Second, every time the binary is updated it must be retested on every supported platform. Keeping this in mind, here's the steps to a add a new slice:
