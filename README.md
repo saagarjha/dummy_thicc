@@ -34,6 +34,16 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 * **Built on:** 07/12/2020 using Xcode Version 12.0 beta 2 (12A8161k) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A4300b)
 * **Physically tested by:** [@saagarjha](https://github.com/saagarjha) on 07/22/2020, using a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Big Sur 11.0 Beta (20A5323l)
 
+### [Motorola 68K (m68k)](https://github.com/saagarjha/dummy_thicc/tree/master/m68k)
+
+* **Built on:** 08/31/2020 using GCC 2.95.3 on an emulated NeXT Computer running NeXTSTEP 3.3 running in Previous 1.8
+* **Virtually tested by**: [@homsar](https://github.com/homsar) on 08/31/2020 emulating a NeXT Computer running NeXTSTEP 3.3 in Previous 1.8
+
+### [Motorola 68040 (m68040)](https://github.com/saagarjha/dummy_thicc/tree/master/m68040)
+
+* **Built on:** 08/31/2020 using GCC 2.95.3 on an emulated NeXTstation Turbo running NeXTSTEP 3.3 in Previous 1.8
+* **Virtually tested by**: [@homsar](https://github.com/homsar) on 08/31/2020 emulating a NeXTstation Turbo running NeXTSTEP 3.3 in Previous 1.8
+
 ### [PowerPC 7400 (ppc7400)](https://github.com/saagarjha/dummy_thicc/tree/master/ppc7400)
 
 * **Built on:** 07/20/2020 using Xcode Version 3.1.4 (9M2809) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033)
@@ -43,17 +53,6 @@ A collaborative effort to build the fattest Mach-O binary in existence.
 
 * **Built on:** 07/22/2020 using Xcode Version 3.1.4 (9M2809) on a MacBook Pro (Retina, 13-inch, Early 2015) running macOS Mojave 10.14.6 (18G5033)
 * **Physically tested by:** [@foxlet](https://github.com/foxlet) on 07/22/2020, using a PowerBook G4 (1 GHz) running Mac OS X Leopard 10.5.8 (9L31a)
-
-### [Motorola 680x0 (m68k)](https://github.com/saagarjha/dummy_thicc/tree/master/m68k)
-
-* **Built on:** 2020-08-31 using GCC 2.95.3 on an emulated Next Computer running NeXTSTEP 3.3 (running in Previous 1.8)
-* **Virtually tested by**: [@homsar](https://github.com/homsar) on 2020-08-31, emulating a Next Computer running NeXTSTEP 3.3
-
-### [Motorola 68040 (m68040)](https://github.com/saagarjha/dummy_thicc/tree/master/m68040)
-
-* **Built on:** 2020-08-31 using GCC 2.95.3 on an emulated NextStation Turbo running NeXTSTEP 3.3 (running in Previous 1.8)
-* **Virtually tested by**: [@homsar](https://github.com/homsar) on 2020-08-31, emulating a NextStation Turbo running NeXTSTEP 3.3
-
 
 ## Contributing
 
