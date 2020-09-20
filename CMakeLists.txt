@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(dummy_thicc C)
+add_executable(dummy_thicc)
+target_sources(dummy_thicc PUBLIC dummy_thicc.c)
+target_compile_options(dummy_thicc PUBLIC -Os)
+target_compile_definitions(dummy_thicc PUBLIC ARCH=\"${CMAKE_OSX_ARCHITECTURES}\")
